@@ -20,15 +20,10 @@
 
     <dependencies>
 
-        <dependency><!--Jquery组件（前端）-->
-            <groupId>org.webjars</groupId>
-            <artifactId>jquery</artifactId>
-            <version>3.4.1</version>
-        </dependency>
         <dependency>
             <groupId>org.webjars</groupId>
             <artifactId>bootstrap</artifactId>
-            <version>4.4.1</version>
+            <version>3.3.7</version>
         </dependency>
         <dependency>
             <groupId>mysql</groupId>
